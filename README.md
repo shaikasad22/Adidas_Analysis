@@ -68,7 +68,7 @@ It reflects key skills relevant to **business analytics and data-driven decision
 ## 📬 Contact
 **Author:** Shaik Asad  
 **Role:** Data Analyst / Business Analyst  
-**Email:** *[Add your email here]*  
-**LinkedIn:** *[Add your LinkedIn profile link]*  
+**Email:** shaikasad2567@gmail.com  
+**LinkedIn:** *https://www.linkedin.com/in/shaik-asad-82999a227/*  
 
 ---
