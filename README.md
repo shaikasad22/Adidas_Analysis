@@ -64,11 +64,9 @@ It reflects key skills relevant to **business analytics and data-driven decision
 3. Gain insights into **Adidas’ sales trends and performance metrics**
 
 ---
-
 ## 📬 Contact
 **Author:** Shaik Asad  
 **Role:** Data Analyst / Business Analyst  
 **Email:** shaikasad2567@gmail.com  
 **LinkedIn:** *https://www.linkedin.com/in/shaik-asad-82999a227/*  
-
 ---
