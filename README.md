@@ -7,7 +7,7 @@ It provides deep insights into **total sales by product category, retailer, stat
 ---
 
 ## 🧹 Data Cleaning & Preparation
-Before creating the dashboard, the dataset underwent thorough **data preprocessing and cleaning** using Excel and Power BI tools.
+Before creating the dashboard, the dataset underwent thorough **data preprocessing and cleaning** using Excel and Power BI tools.  
 
 **Key steps included:**
 - Removing missing or duplicate records  
